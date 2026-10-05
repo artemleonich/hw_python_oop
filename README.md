@@ -1,12 +1,10 @@
-<p align="center">
-  <img src=".github/assets/banner.svg" width="100%" alt="Fitness Tracker" />
-</p>
-
 # Fitness Tracker
+
+<img src=".github/assets/stack.svg" height="28" alt="Python · OOP · Learning" />
 
 Сводка тренировки из данных датчиков: дистанция, скорость и расход калорий.
 
-**Учебный проект** · Python · ООП · dataclasses · pytest  
+**Учебный проект**  
 [Русский](#about) · [English](#english) · [Профиль](https://github.com/artemleonich)
 
 <a id="about"></a>
