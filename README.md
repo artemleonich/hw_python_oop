@@ -1,6 +1,6 @@
 # Fitness Tracker
 
-<img src=".github/assets/stack.svg" height="28" alt="Python · OOP · Learning" />
+<a href=".github/assets/light/stack.svg#gh-light-mode-only"><img src=".github/assets/light/stack.svg" height="28" alt="Python · OOP · Learning" /></a><a href=".github/assets/stack.svg#gh-dark-mode-only"><img src=".github/assets/stack.svg" height="28" alt="Python · OOP · Learning" /></a>
 
 Сводка тренировки из данных датчиков: дистанция, скорость и расход калорий.
 
